@@ -1,0 +1,33 @@
+.navbar ul {
+   float: right;
+}
+
+.nav li{
+    padding: 20px, 0px;
+    width: 33.3%;
+    text-align: center;
+}
+
+.navbar-dark {
+    background: #5133a4;
+}
+
+.nav-link {
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: bold
+}
+
+.nav-item {
+    color: #ffffff;
+    text-align: center;
+    font-size: 30px;
+
+    /* float: right; */
+
+}
+
+/* .header {
+    background-image: radial-gradient(circle, #5133a4, #8b0057, #7a211d, #533707, #323c1c);
+    height: 90px;
+} */
